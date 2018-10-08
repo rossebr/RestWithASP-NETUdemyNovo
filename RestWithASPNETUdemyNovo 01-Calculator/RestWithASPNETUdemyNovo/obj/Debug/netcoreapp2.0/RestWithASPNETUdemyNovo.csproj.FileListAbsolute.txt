@@ -1,0 +1,11 @@
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\bin\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.deps.json
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\bin\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.runtimeconfig.json
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\bin\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.runtimeconfig.dev.json
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\bin\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.dll
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\bin\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.pdb
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\obj\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\obj\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\obj\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\obj\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.AssemblyInfo.cs
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\obj\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.dll
+C:\Users\bruno\Documents\RestFull\ProjetoAulas\RestWithASP-NETUdemyNovo\RestWithASPNETUdemyNovo\RestWithASPNETUdemyNovo\obj\Debug\netcoreapp2.0\RestWithASPNETUdemyNovo.pdb
